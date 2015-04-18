@@ -5,3 +5,5 @@
 [Entity table character](http://dev.w3.org/html5/html-author/charref)
 ### css3 cubic bezier transition generator
 [cubic bezier transition generator](http://cubic-bezier.com/#.17,.67,.83,.67)
+###I#mage placeholder 
+[http://placehold.it]{http://placehold.it/}
