@@ -6,4 +6,4 @@
 ### css3 cubic bezier transition generator
 [cubic bezier transition generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 ###Image placeholder 
-[http://placehold.it]{http://placehold.it/}
+[http://placehold.it](http://placehold.it/)
