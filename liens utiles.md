@@ -9,5 +9,8 @@
 [CSS Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com/)
 
 [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations)
+
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
+
 ###Image placeholder 
 [http://placehold.it](http://placehold.it/)
