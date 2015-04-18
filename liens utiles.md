@@ -1,9 +1,7 @@
-#Entity character
-##Entity Conversion Calculator
-[Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
-##Entity table character
-[Entity table character](http://dev.w3.org/html5/html-author/charref)
 
-#CSS3 
-## css3 cubic bezier transition generator
+###Entity Conversion Calculator
+[Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
+###Entity table character
+[Entity table character](http://dev.w3.org/html5/html-author/charref)
+### css3 cubic bezier transition generator
 [cubic bezier transition generator](http://cubic-bezier.com/#.17,.67,.83,.67)
