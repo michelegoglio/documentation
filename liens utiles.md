@@ -6,6 +6,6 @@
 ###css3 cubic bezier transition generator
 [cubic bezier transition generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 ###css3 transition, anmations filter generator & tutorial
-[bradshawenterprises](http://css3.bradshawenterprises.com/)
+[CSS Transitions, Transforms and Animation Tutorial](http://css3.bradshawenterprises.com/)
 ###Image placeholder 
 [http://placehold.it](http://placehold.it/)
