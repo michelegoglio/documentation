@@ -30,6 +30,6 @@
 
 
 
-###Parallax 
-##Parallax tuto
+##Parallax 
+###Parallax tuto
 [parallax tuto](http://codepen.io/saransh/pen/BKJun)
