@@ -28,9 +28,9 @@
 ##email tester/sender & converter/template
 [ink : email template & converter](http://zurb.com/ink/inliner.php)
 
-[putsmail/litmus email tester](https://putsmail.com/tests/new)
+[putsmail/litmus : email tester](https://putsmail.com/tests/new)
 
-[aspnetemail email tester](http://aspnetemail.com/)
+[aspnetemail : email tester](http://aspnetemail.com/)
 
 ##Parallax 
 [parallax tuto](http://codepen.io/saransh/pen/BKJun)
