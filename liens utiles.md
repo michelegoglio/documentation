@@ -24,6 +24,8 @@
 
 [custom scrollbar](http://codemug.com/html/custom-scrollbars-using-css/)
 
+[Curated collection of CSS Flexbox related articles, tips and resources](http://cssflexbox.com/)
+
 
 ##email tester/sender & converter/template
 [ink : email template & converter](http://zurb.com/ink/inliner.php)
