@@ -46,3 +46,5 @@
 [Open SSL](https://www.openssl.org/)
 
 [MacInCloud](http://www.macincloud.com/)
+
+[How to enable USB debugging on Android](http://www.phonearena.com/news/How-to-enable-USB-debugging-on-Android_id53909)
