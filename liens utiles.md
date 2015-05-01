@@ -41,7 +41,7 @@
 ##Mobile Applications
 [Phone Gap](http://build.phonegap.com/)
 
-[Gap Debug](http://www.joshmorony.com/genuitec-release-epic-debugger-gapdebug-for-phonegap-apps/)
+[Gap Debug](https://www.genuitec.com/products/gapdebug/)
 
 [Open SSL](https://www.openssl.org/)
 
