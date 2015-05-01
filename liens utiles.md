@@ -36,3 +36,13 @@
 
 ##Parallax 
 [parallax tuto](http://codepen.io/saransh/pen/BKJun)
+
+
+##Mobile Applications
+[Phone Gap](http://build.phonegap.com/)
+
+[Gap Debug](http://www.joshmorony.com/genuitec-release-epic-debugger-gapdebug-for-phonegap-apps/)
+
+[Open SSL](https://www.openssl.org/)
+
+[MacInCloud](http://www.macincloud.com/)
