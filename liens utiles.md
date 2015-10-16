@@ -19,6 +19,9 @@
 
 [Les integristes - introduction a wai-aria](http://www.lesintegristes.net/2008/12/09/introduction-a-wai-aria-traduction/)
 
+[ARIA in HTML - Document conformance requirements for use of ARIA attributes in HTML](https://specs.webplatform.org/html-aria/webspecs/master/)
+
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
