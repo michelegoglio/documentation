@@ -25,6 +25,8 @@
 
 [ARIA live region sample](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
+[Accesible client side form validation aria html5](http://www.deque.com/blog/accessible-client-side-form-validation-html5-wai-aria/)
+
 
 
 
