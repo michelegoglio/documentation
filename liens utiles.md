@@ -35,6 +35,7 @@
 
 [ARIA model SVG](http://www.w3.org/TR/wai-aria/rdf_model.svg)
 
+[ARIA components examples](http://www.w3.org/WAI/PF/aria-practices/#aria_ex)
 
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
