@@ -23,6 +23,15 @@
 
 [Power Mapper - Assistive Technology Compatibility Tests screen reader compatibility](http://www.powermapper.com/tests/)
 
+[ARIA live region sample](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
+
+
+
+
+
+
+
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
