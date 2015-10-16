@@ -17,6 +17,8 @@
 
 [PacielloGroup - using wai-aria landmarks](https://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
 
+[Les integristes - introduction a wai-aria](http://www.lesintegristes.net/2008/12/09/introduction-a-wai-aria-traduction/)
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
