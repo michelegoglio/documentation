@@ -21,6 +21,7 @@
 
 [ARIA in HTML - Document conformance requirements for use of ARIA attributes in HTML](https://specs.webplatform.org/html-aria/webspecs/master/)
 
+[Power Mapper - wai-aria screen reader compatibility](http://www.powermapper.com/tests/screen-readers/aria/)
 
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
