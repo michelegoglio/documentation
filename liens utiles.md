@@ -15,6 +15,8 @@
 
 [Les archives accessibilite numerique](http://list.accessiweb.org/pipermail/accessibilite-numerique_list.accessiweb.org/)
 
+[PacielloGroup - using wai-aria landmarks](https://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
