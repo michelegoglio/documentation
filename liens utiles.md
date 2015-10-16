@@ -11,6 +11,8 @@
 
 [rgaa composants](https://github.com/DISIC/rgaa_composants_javascript)
 
+[video Access Key - Sophia antipolis](http://portail.unice.fr/access-key)
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
