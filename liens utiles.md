@@ -37,6 +37,8 @@
 
 [ARIA components examples](http://www.w3.org/WAI/PF/aria-practices/#aria_ex)
 
+[exemple de modale accessible](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/accessible.html)
+
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
 
