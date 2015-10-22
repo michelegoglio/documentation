@@ -25,7 +25,7 @@
 
 [ARIA live region sample](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
-[Accesible client side form validation aria html5](http://www.deque.com/blog/accessible-client-side-form-validation-html5-wai-aria/)
+[Accessible client side form validation aria html5](http://www.deque.com/blog/accessible-client-side-form-validation-html5-wai-aria/)
 
 [usabilitygeek - tabs in aria](http://usabilitygeek.com/accessible-web-development-using-w3c-wai-aria/)
 
@@ -42,6 +42,8 @@
 [ARIA in HTML : ce qu'il faut faire et ne pas faire](http://rawgit.com/w3c/aria-in-html/master/index.html)
 
 [A11YProject](http://a11yproject.com/)
+
+[smashingmagazine : accessibility point to care](http://www.smashingmagazine.com/2014/05/mobile-accessibility-why-care-what-can-you-do/)
 
 ##Converters
 [Entity Conversion Calculator](https://www.evotech.net/articles/testjsentities.html)
