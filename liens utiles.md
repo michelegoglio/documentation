@@ -3,6 +3,8 @@
 
 [Web components tutoriel CSS Tricks](https://css-tricks.com/modular-future-web-components/)
 
+[Web components tutoriel Modus Create](ttp://moduscreate.com/web-components-introduction/)
+
 ##Accessibility
 [ARIA Examples (heydonworks)](http://heydonworks.com/practical_aria_examples/)
 
