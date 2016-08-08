@@ -5,7 +5,7 @@
 
 [Web components tutoriel Modus Create](http://moduscreate.com/web-components-introduction/)
 
-[Web components info] Infoq (https://www.infoq.com/fr/news/2013/06/webcomponents)
+[Web components infos - Infoq](https://www.infoq.com/fr/news/2013/06/webcomponents)
 
 ##Accessibility
 [ARIA Examples (heydonworks)](http://heydonworks.com/practical_aria_examples/)
