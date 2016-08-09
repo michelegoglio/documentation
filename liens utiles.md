@@ -7,6 +7,10 @@
 
 [Web components infos - Infoq](https://www.infoq.com/fr/news/2013/06/webcomponents)
 
+[Web components - W3C](https://www.w3.org/TR/2013/WD-components-intro-20130606/)
+
+[Web components - Codetutsplus](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
+
 ##Accessibility
 [ARIA Examples (heydonworks)](http://heydonworks.com/practical_aria_examples/)
 
