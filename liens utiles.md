@@ -1,6 +1,8 @@
 ##Google I/O
 [Google I/O 2016](https://events.google.com/io2016/)
 
+[Chrome Dev Editor](https://chrome.google.com/webstore/detail/chrome-dev-editor/pnoffddplpippgcfjdhbmhkofpnaalpg) 
+
 ##Web components
 [Web components tutoriel](http://gafish.fr/shadow-dom-pour-vos-composants-web/)
 
