@@ -1,5 +1,5 @@
 ##Google I/O
-[Google I/o 2016](https://events.google.com/io2016/)
+[Google I/O 2016](https://events.google.com/io2016/)
 
 ##Web components
 [Web components tutoriel](http://gafish.fr/shadow-dom-pour-vos-composants-web/)
