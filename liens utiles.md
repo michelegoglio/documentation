@@ -17,6 +17,10 @@
 [Web components - Codetutsplus](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
 
 ##Accessibility
+[Ten Guidelines To Improve The Usability And Accessibility Of Your Site](http://usabilitygeek.com/guidelines-improve-usability-accessibility/)
+
+[10 Free Screen Readers For Blind Or Visually Impaired Users](http://usabilitygeek.com/10-free-screen-reader-blind-visually-impaired-users/)
+
 [ARIA Examples (heydonworks)](http://heydonworks.com/practical_aria_examples/)
 
 [ARIA Roles Properties States](http://oaa-accessibility.org/examples/)
