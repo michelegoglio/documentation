@@ -17,6 +17,8 @@
 [Web components - Codetutsplus](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
 
 ##Accessibility
+[Official Usability, User Experience And User Interface Guidelines From Companies (2016)](http://usabilitygeek.com/usability-user-experience-user-interface-guidelines-companies-2016/)
+
 [Ten Guidelines To Improve The Usability And Accessibility Of Your Site](http://usabilitygeek.com/guidelines-improve-usability-accessibility/)
 
 [10 Free Screen Readers For Blind Or Visually Impaired Users](http://usabilitygeek.com/10-free-screen-reader-blind-visually-impaired-users/)
