@@ -40,6 +40,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 
 [Flexbugs – Community-curated list of flexbox issues and cross-browser workarounds](https://github.com/philipwalton/flexbugs)
 
+[CSS Flexbox Toolbox – Learning Guides, Tools & Frameworks](https://speckyboy.com/css-flexbox-toolbox/)
+
 ##Web style guideline resources
 [Articles ebook](http://styleguides.io/)
 
