@@ -19,6 +19,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 
 [FSVS, a simple fullscreen vertical slider using CSS3 transitions with jQuery fallback.](http://luke.sno.wden.co.uk/full-screen-vertical-scroll#fsvs-initial-setup)
 
+[Imacss, a library that transforms image files to data URIs.](https://github.com/akoenig/imacss)
+
 ##SASS
 [Pantone Sass, a list of Pantone colors as Sass variables](http://damonbauer.github.io/Pantone-Sass/)
 
