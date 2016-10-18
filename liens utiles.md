@@ -1,3 +1,6 @@
+##Web style guideline resources
+[Articles ebook](http://styleguides.io/)
+
 ##Google I/O
 [Google I/O 2016](https://events.google.com/io2016/)
 
