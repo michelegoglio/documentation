@@ -34,6 +34,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 ##Flexbox
 [a grid system based on the flex display property](http://flexboxgrid.com/)
 
+[Flexbugs – Community-curated list of flexbox issues and cross-browser workarounds](https://github.com/philipwalton/flexbugs)
+
 ##Web style guideline resources
 [Articles ebook](http://styleguides.io/)
 
