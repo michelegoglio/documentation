@@ -2,6 +2,8 @@
 [The Ultimate Guide to CSS
 A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients on the planet](https://www.campaignmonitor.com/css/)
 
+[Understanding Responsive and Hybrid Email Design](https://litmus.com/blog/understanding-responsive-and-hybrid-email-design)
+
 ##CSS
 [CSS Vocabulary, a small web app to help understand CSS terminology](http://apps.workflower.fi/vocabs/)
 
