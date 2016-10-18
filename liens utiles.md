@@ -8,6 +8,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 
 [Creating a Future-Proof Responsive Email Without Media Queries](https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
 
+[fly-brid is a tool to create HTML email layouts ](http://ryanfield.ca/fly-brid/)
+
 ##CSS
 [CSS Vocabulary, a small web app to help understand CSS terminology](http://apps.workflower.fi/vocabs/)
 
