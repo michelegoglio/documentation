@@ -1,3 +1,6 @@
+##SASS
+[Pantone Sass, a list of Pantone colors as Sass variables](http://damonbauer.github.io/Pantone-Sass/)
+
 ##Fonts
 [Glyphter, a handy tool for creating icon fonts from SVGs](https://glyphter.com/)
 
