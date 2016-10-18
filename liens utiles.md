@@ -4,6 +4,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 
 [Understanding Responsive and Hybrid Email Design](https://litmus.com/blog/understanding-responsive-and-hybrid-email-design)
 
+[THE HYBRID CODING APPROACH](http://labs.actionrocket.co/the-hybrid-coding-approach)
+
 ##CSS
 [CSS Vocabulary, a small web app to help understand CSS terminology](http://apps.workflower.fi/vocabs/)
 
