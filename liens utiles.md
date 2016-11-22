@@ -3,6 +3,8 @@
 
 [protractor API doc](http://www.protractortest.org/#/api)
 
+[protractor styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide)
+
 [Jasmine cheatsheet](http://ricostacruz.com/cheatsheets/jasmine.html)
 
 
