@@ -5,6 +5,8 @@
 
 [protractor styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide)
 
+[protractor locators](https://github.com/angular/protractor/blob/master/docs/locators.md)
+
 [Jasmine cheatsheet](http://ricostacruz.com/cheatsheets/jasmine.html)
 
 
