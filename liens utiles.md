@@ -1,7 +1,10 @@
-##Protractor
+##Tests UI (Protractor - Jasmine)
 [protractor tuto slide](http://ramonvictor.github.io/protractor/slides/#/)
 
 [protractor API doc](http://www.protractortest.org/#/api)
+
+[Jasmine cheatsheet](http://ricostacruz.com/cheatsheets/jasmine.html)
+
 
 ##UX
 [ux design](https://uxdesign.cc/)
