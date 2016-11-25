@@ -1,7 +1,7 @@
 ##Sets gratuits
-[icons set](https://github.com/icons8/flat-color-icons)
+[icons set](https://github.com/icons8/flat-color-icons) [icons set](https://icon54.com/free-pokemon-go-icons/)
 
-[icons set](https://icon54.com/free-pokemon-go-icons/)
+
 
 [icons set](https://speckyboy.com/freebie-colored-food-drink-icon-set/)
 
