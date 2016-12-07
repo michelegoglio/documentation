@@ -9,6 +9,8 @@
 [Cheasheets](http://ricostacruz.com/cheatsheets/)
 
 ##Tests UI (Protractor - Jasmine)
+[protractor video tuto](https://egghead.io/courses/learn-protractor-testing-for-angularjs)
+
 [protractor tuto slide](http://ramonvictor.github.io/protractor/slides/#/)
 
 [protractor API doc](http://www.protractortest.org/#/api)
