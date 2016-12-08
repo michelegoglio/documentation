@@ -40,6 +40,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 [Coding email for accessibility](http://blog.rebelmail.com/accessibility-in-email-part-ii/)
 
 ##CSS
+[Reference - Guide CSS avec exemples](http://cssreference.io/#flex-basis)
+
 [CSS Vocabulary, a small web app to help understand CSS terminology](http://apps.workflower.fi/vocabs/)
 
 [Pure CSS Charts](http://asciimoo.github.io/cssplot/)
