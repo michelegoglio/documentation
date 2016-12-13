@@ -8,6 +8,8 @@
 ##Cheasheets
 [Cheasheets](http://ricostacruz.com/cheatsheets/)
 
+[Cheasheets](https://envato.com/blog/cheatsheets-web-designers/?ref=webdesignernews.com)
+
 ##Tests UI (Protractor - Jasmine)
 [protractor video tuto](https://egghead.io/courses/learn-protractor-testing-for-angularjs)
 
