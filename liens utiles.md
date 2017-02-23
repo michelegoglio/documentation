@@ -1,3 +1,6 @@
+##Images
+[Base64 - avantages(Requetes) - Inconvenients(SEO)](http://www.yapasdequoi.com/astuces/1905-encodage-dimages-en-base64-et-vitesse-de-chargement.html)
+
 ##Videos
 [Responsive video resizing](http://allthingssmitty.com/2016/12/12/responsive-video-resizing/)
 
