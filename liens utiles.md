@@ -1,3 +1,6 @@
+##Canvas
+[Core HTML5 Canvas - examples](https://github.com/corehtml5canvas)
+
 ##Images
 [Base64 - avantages(Requetes) - Inconvenients(SEO)](http://www.yapasdequoi.com/astuces/1905-encodage-dimages-en-base64-et-vitesse-de-chargement.html)
 
