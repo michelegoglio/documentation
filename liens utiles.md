@@ -161,6 +161,8 @@ A complete breakdown of the CSS support for the top 10 most popular mobile, web 
 
 [hex to rgb converter](http://www.javascripter.net/faq/hextorgb.htm)
 
+[Image base64 converter](https://www.base64-image.de/)
+
 ##generators
 [cubic bezier transition generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 
