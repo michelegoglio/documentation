@@ -1,3 +1,7 @@
+##Chrome 
+[How to Disable Same Origin Policy on Chrome and IE browser](http://www.thegeekstuff.com/2016/09/disable-same-origin-policy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheGeekStuff+(The+Geek+Stuff))
+--disable-web-security --user-data-dir="c:/someFolderName"
+
 ##Canvas
 [Core HTML5 Canvas - examples](https://github.com/corehtml5canvas)
 
