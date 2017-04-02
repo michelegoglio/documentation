@@ -1,5 +1,10 @@
 ##D3
 [Map example](https://bost.ocks.org/mike/example/)
+[http://christopheviau.com/d3list/](http://christopheviau.com/d3list/)
+[https://www.dashingd3js.com/table-of-contents](https://www.dashingd3js.com/table-of-contents)
+[http://alignedleft.com/tutorials/d3](http://alignedleft.com/tutorials/d3)
+[https://website.education.wisc.edu/~swu28/d3t/link.html](https://website.education.wisc.edu/~swu28/d3t/link.html)
+
 
 
 ##Chrome 
