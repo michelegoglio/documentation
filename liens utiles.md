@@ -1,3 +1,6 @@
+##Javascript
+[Javascript obfuscator](http://www.javascriptobfuscator.com/default.aspx)
+
 ##D3
 [Map example](https://bost.ocks.org/mike/example/)
 
