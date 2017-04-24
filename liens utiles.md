@@ -12,7 +12,7 @@
 
 [https://website.education.wisc.edu/~swu28/d3t/link.html](https://website.education.wisc.edu/~swu28/d3t/link.html)
 
-[https://bl.ocks.org/mbostock - D3 examples](https://bl.ocks.org/mbostock])
+[https://bl.ocks.org/mbostock - D3 examples](https://bl.ocks.org/mbostock)
 
 
 
